@@ -25,3 +25,9 @@ public class Main {
         myCar.accelerate(30);  // Accelerate the car
     }
 }
+
+Output 
+Brand: Toyota
+Color: Red
+Speed: 120 km/h
+The car has accelerated. New speed: 150 km/h
